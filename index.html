@@ -15,12 +15,12 @@
     <img src="https://b.2do.lc/b.png" alt="B Image" style="width: 40px;"> 
     <a href="https://b.2do.lc/">https://b.2do.lc/</a>
     <script type="text/javascript">
-      fetch('https://a.2do.lc/style.css')
-        .then((response) => response.text())
+      fetch('https://a.2do.lc/a.json')
+        .then((response) => response.json())
         .then((data) => console.log(data));
       
-      fetch('https://b.2do.lc/style.css')
-        .then((response) => response.text())
+      fetch('https://b.2do.lc/b.json')
+        .then((response) => response.json())
         .then((data) => console.log(data));
     </script>
   </body>
