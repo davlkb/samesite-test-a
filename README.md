@@ -8,15 +8,15 @@ document.cookie = "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK=VVVVVVVVVVVVVVVVVVVV
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA; Domain=a.2do.lc; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=AAAAAAAAAAAAAA; Domain=a.2do.lc; SameSite=Strict; Secure";
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB; Domain=a.2do.lc; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=BBBBBBBBBBBBBB; Domain=B.2do.lc; SameSite=Strict; Secure";
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK=CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC; Domain=davlkb.github.io; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=CCCCCCCCCCCCCC; Domain=B.2do.lc; SameSite=Strict; Secure";
 ```
 
 
