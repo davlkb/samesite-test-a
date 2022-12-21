@@ -16,7 +16,7 @@ document.cookie = "KKKKKKKKKKKKKKK=BBBBBBBBBBBBBB; Domain=b.2do.lc; SameSite=Str
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKK=CCCCCCCCCCCCCC; Domain=c.2do.lc; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=CCCCCCCCCCCCCC; Domain=davlkb.github.io; SameSite=Strict; Secure";
 ```
 
 
