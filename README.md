@@ -12,11 +12,11 @@ document.cookie = "KKKKKKKKKKKKKKK=AAAAAAAAAAAAAA; Domain=a.2do.lc; SameSite=Str
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKK=BBBBBBBBBBBBBB; Domain=B.2do.lc; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=BBBBBBBBBBBBBB; Domain=b.2do.lc; SameSite=Strict; Secure";
 ```
 
 ```
-document.cookie = "KKKKKKKKKKKKKKK=CCCCCCCCCCCCCC; Domain=B.2do.lc; SameSite=Strict; Secure";
+document.cookie = "KKKKKKKKKKKKKKK=CCCCCCCCCCCCCC; Domain=c.2do.lc; SameSite=Strict; Secure";
 ```
 
 
