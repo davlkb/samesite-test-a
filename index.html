@@ -15,7 +15,7 @@
     <img src="https://b.2do.lc/b.png" alt="B Image" style="width: 40px;"> 
     <a href="https://b.2do.lc/">https://b.2do.lc/</a>
     <script type="text/javascript">
-      fetch('https://a.2do.lc/a.json')
+      fetch('https://a.2do.lc/a.json', { credentials: 'include' })
         .then((response) => response.json())
         .then((data) => console.log(data));
       
