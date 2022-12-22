@@ -19,7 +19,7 @@
         .then((response) => response.json())
         .then((data) => console.log(data));
       
-      fetch('https://b.2do.lc/b.json')
+      fetch('https://b.2do.lc/b.json', { credentials: 'include' })
         .then((response) => response.json())
         .then((data) => console.log(data));
     </script>
